@@ -1,7 +1,6 @@
 streamlit
+opencv-python
 numpy
-pandas
-scikit-learn
-cv2
+Pillow
 torch
-torch.nn.functional
+torchvision
