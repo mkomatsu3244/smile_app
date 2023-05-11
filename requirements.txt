@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv-headless
 numpy
 Pillow
 torch
